@@ -11,6 +11,7 @@ namespace ejemplo.cfdi40.ingreso
 {
     class Program
     {
+         *
         static void Main(string[] args)
         {
             /*Establecer su clave de licencia
